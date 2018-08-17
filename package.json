@@ -1,0 +1,19 @@
+{
+  "name": "express-json-server-prototype",
+  "version": "1.0.0",
+  "description": "Trying to setup a simple middleware to re-create non-standard routes to a json-server database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "author": "@jsheridanwells",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "json-server": "^0.14.0"
+  }
+}
